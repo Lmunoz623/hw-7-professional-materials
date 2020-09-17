@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: rgb(145, 206, 241);"
+    color: rgb(230, 172, 14);
     font-size:40px;
     margin-left: 10px;
 }
@@ -29,7 +29,7 @@ main, aside {
     background-color: rgb(209, 134, 21); 
     border: solid; 
     border-color: darkgrey; 
-    margin-top: 50px;"
+    margin-top: 50px;
 }
 
 .contact-contain {
@@ -54,7 +54,7 @@ aside {
 
 .card {
     margin-left: 65px;
-    height: 300px;
+    height: 450px;
 }
 
 .card-body {
@@ -62,8 +62,8 @@ aside {
 }
 
 .screenshot {
-    width: 250px;
-    height: 250px;
+    width: 275px;
+    height: 275px;
 }
 
 .logo img {
